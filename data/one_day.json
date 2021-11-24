@@ -1,0 +1,9 @@
+{
+    "date_":"date",
+    "bus_history":[{
+        "bus_id":"number",
+        "line":"number",
+        "time_start":"time",
+        "time_end":"time"
+    }]
+}
