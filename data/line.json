@@ -2,11 +2,13 @@
     "stop_id":"number",
     "latitude":"number",
     "longitude":"number",
+	"land_mark":["string"],
     "line_":[{
         "line":"number",
         "previous_stop_id":"number",
         "next_stop_id":"number",
         "across_stop_id":"number",
+        
         "time":{
             "line_no":"number",
             "time_table":["time"]
