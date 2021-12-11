@@ -2,6 +2,8 @@
     "log_service_id":"number",
     "service_user_id":"number",
     "job_position":"string",
+    "login_time":"datetime",
+    "logout_time":"datetime",
     "service_action":[{
         "type":"string",
         "time":"datetime",
@@ -13,6 +15,7 @@
         "edit":{
             "previous_info":"string",
             "edit_info":"string"
-        }
+        },
+        "delete_info":"string"
     }]
 }

@@ -1,5 +1,5 @@
 {
-    "comment_id":"number",
+    "feedback_id":"number",
     "type":["string"],
     "note":"string"
 }

@@ -1,10 +1,6 @@
 {
     "tram_id": "number",
-    "driver":{
-        "id":"number",
-        "firstname":"string",
-        "lastname":"string"
-    },
+    "service_user_id":"number",
     "line": "number",
     "status":"number",
     "next_station":"number",

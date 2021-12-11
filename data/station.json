@@ -1,13 +1,13 @@
 {
-    "stop_id":"number",
+    "station_id":"number",
     "latitude":"number",
     "longitude":"number",
 	"land_mark":["string"],
     "line_":[{
         "line":"number",
-        "previous_stop_id":"number",
-        "next_stop_id":"number",
-        "across_stop_id":"number",
+        "previous_station_id":"number",
+        "next_station_id":"number",
+        "across_station_id":"number",
         "time_table":{
             "monday-friday": ["time"],
             "saturday-sunday":["time"]
