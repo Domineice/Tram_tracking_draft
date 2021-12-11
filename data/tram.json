@@ -1,8 +1,13 @@
 {
     "tram_id": "number",
-    "driver": "text",
+    "driver":{
+        "id":"number",
+        "firstname":"string",
+        "lastname":"string"
+    },
     "line": "number",
     "status":"number",
+    "next_station":"number",
     "position":{
         "latitude":"number",
         "longitude":"number"

@@ -1,0 +1,18 @@
+{
+    "log_service_id":"number",
+    "service_user_id":"number",
+    "job_position":"string",
+    "service_action":[{
+        "type":"string",
+        "time":"datetime",
+        "access_position":{
+            "database_name":"string",
+            "access_id":"number",
+            "position_command":"string"
+        },
+        "edit":{
+            "previous_info":"string",
+            "edit_info":"string"
+        }
+    }]
+}

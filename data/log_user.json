@@ -1,0 +1,38 @@
+{
+    "log_user_id":"number",
+    "user_id":"number",
+    "log_time":{
+        "action_date":"date",
+        "action_time":"time"
+    },
+    "log_position":{
+        "latitude":"number",
+        "longitude":"number",
+        "nearest_station_id":"number"
+    },
+    "user_action":{
+        "tram_click":{
+            "tram_id":"number",
+            "line": "number"
+        },
+        "tram_stop_click":{
+            "stop_id":"number",
+            "check_time_table":"boolean",
+            "time_table":{
+            "time_table_line":"number"
+            }
+        },
+        "click_on_guide":"boolean",
+        "comment_id":"number",
+        "search_way":{
+            "begin":{
+            "search_begin":"string",
+            "bus_stop_start_id":"number"
+            },
+            "end":{
+                "search_end":"string",
+                "bus_stop_end_id":"number"
+            }
+        }
+    }
+}

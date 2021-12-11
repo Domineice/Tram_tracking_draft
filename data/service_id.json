@@ -1,0 +1,15 @@
+{
+        "service_user_id":"number",
+        "first_name":"string",
+        "last_name":"string",
+        "job_position":"string",
+        "status":"number",
+        "password":"string",
+        "period":[{
+            "date_":"date",
+            "time_in":[{
+                "time_login":"time",
+                "time_logout":"time"
+                }]
+        }]
+}

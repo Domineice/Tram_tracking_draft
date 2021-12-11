@@ -8,6 +8,9 @@
         "previous_stop_id":"number",
         "next_stop_id":"number",
         "across_stop_id":"number",
-        "time_table":["time"]
+        "time_table":{
+            "monday-friday": ["time"],
+            "saturday-sunday":["time"]
+        }
     }]
 }
