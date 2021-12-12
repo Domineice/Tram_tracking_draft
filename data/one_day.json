@@ -2,12 +2,8 @@
     "date_id":"number",
     "date_":"date",
     "bus_history":[{
-        "driver":{
-            "id":"number",
-            "first_name":"string",
-            "last_name":"string"
-        },
-        "bus_id":"number",
+        "service_user_id":"number",
+        "tram_id":"number",
         "line":"number",
         "time_start":"time",
         "time_end":"time"
