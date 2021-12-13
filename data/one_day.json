@@ -2,7 +2,7 @@
     "date_id":"number",
     "date_":"date",
     "bus_history":[{
-        "service_user_id":"number",
+        "service_provider_id":"number",
         "tram_id":"number",
         "line":"number",
         "time_start":"time",

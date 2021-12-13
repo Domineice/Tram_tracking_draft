@@ -1,6 +1,6 @@
 {
     "tram_id": "number",
-    "service_user_id":"number",
+    "service_provider_id":"number",
     "line": "number",
     "status":"number",
     "next_station":"number",

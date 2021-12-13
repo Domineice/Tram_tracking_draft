@@ -1,6 +1,6 @@
 {
     "log_service_id":"number",
-    "service_user_id":"number",
+    "service_provider_id":"number",
     "job_position":"string",
     "login_time":"datetime",
     "logout_time":"datetime",
