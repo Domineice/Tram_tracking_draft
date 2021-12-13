@@ -2,7 +2,7 @@
     "tram_id": "number",
     "service_provider_id":"number",
     "line": "number",
-    "status":"number",
+    "status":"bool",
     "next_station":"number",
     "position":{
         "latitude":"number",

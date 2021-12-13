@@ -8,8 +8,8 @@
         "period":[{
             "date_":"date",
             "time_in":[{
-                "time_login":"time",
-                "time_logout":"time"
+                "time_in":"time",
+                "time_out":"time"
                 }]
         }]
 }
