@@ -24,7 +24,7 @@
         },
         "line_click":"boolean",
         "click_on_guide":"boolean",
-        "feedback_id":"boolean",
+        "feedback_id":"number",
         "search_way":{
             "begin":{
             "search_begin":"string",
