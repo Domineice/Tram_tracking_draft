@@ -18,13 +18,13 @@
         "station_click":{
             "station_id":"number",
             "check_time_table":"boolean",
-            "time_table":{
+            "time_table":[{
             "time_table_line":"number"
-            }
+            }]
         },
-        "line_click":"number",
+        "line_click":"boolean",
         "click_on_guide":"boolean",
-        "feedback_id":"number",
+        "feedback_id":"boolean",
         "search_way":{
             "begin":{
             "search_begin":"string",
