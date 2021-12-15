@@ -4,6 +4,7 @@
         "last_name":"string",
         "job_position":"string",
         "email":"string",
+        "phone_no":"string",
         "status":"number",
         "password":"string",
         "period":[{
