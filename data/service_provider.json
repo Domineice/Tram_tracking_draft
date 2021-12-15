@@ -3,6 +3,7 @@
         "first_name":"string",
         "last_name":"string",
         "job_position":"string",
+        "email":"string",
         "status":"number",
         "password":"string",
         "period":[{
